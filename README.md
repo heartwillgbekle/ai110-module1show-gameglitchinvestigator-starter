@@ -59,7 +59,3 @@ A number-guessing game where the player picks a difficulty (Easy, Normal, or Har
 ## 📸 Demo
 
 - ![Winning game screenshot](gamewin.png)
-
-## 🚀 Stretch Features
-
-- [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
